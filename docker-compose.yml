@@ -8,6 +8,8 @@ services:
     privileged: true
     restart: never
     network_mode: host
+    ports:
+        - '7878'
   dashboard:
     image: balenablocks/dashboard:raspberrypi3
     restart: always
