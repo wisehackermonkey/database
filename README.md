@@ -4,12 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<img src="assets/diagram_v1.svg" width="400">
 
 
 <h2 align="center">Easiest way to sync data between all the device on your balena.io fleet </h2>
 
-<h4 align="center">Great for collecting sensor data from temperature sensors, heat, water etc...</h4>
+<h4 align="center">Great for collating sensor data from temperature sensors, heat, water etc...</h4>
+<img src="assets/diagram_v1.svg" width="400">
 
 ---
 
