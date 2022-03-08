@@ -1,0 +1,18 @@
+name: "database"
+description: "Easiest way to sync data between all the device on your balena.io fleet "
+type: "sw.application"
+assets:
+  repository:
+    type: "blob.asset"
+    data:
+      url: "https://github.com/wisehackermonkey/database"
+  logo:
+    type: "blob.asset"
+    data:
+      url: "https://raw.githubusercontent.com/wisehackermonkey/database/main/logo.svg"
+data:
+  defaultDeviceType: "raspberrypi4-64"
+  supportedDeviceTypes:
+    - "raspberrypi3"
+    - "raspberrypi3-64"
+    - "raspberrypi4-64"
