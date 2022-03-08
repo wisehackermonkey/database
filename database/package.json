@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Easiest way to sync data between all the device on your balena.io fleet",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisehackermonkey/database.git"
+  },
+  "keywords": [
+    "database",
+    "balena.io",
+    "balena"
+  ],
+  "author": "wisehackermonkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisehackermonkey/database/issues"
+  },
+  "homepage": "https://github.com/wisehackermonkey/database#readme"
 }

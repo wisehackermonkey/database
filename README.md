@@ -40,6 +40,7 @@
 cd ~
 git clone https://github.com/wisehackermonkey/database.git
 cd database
+
 ```
 
 
@@ -73,6 +74,23 @@ cd database
 # Development
 ### 
 ```bash
+cd ~
+git clone https://github.com/wisehackermonkey/database.git
+cd database/database
+npm install
+npm start
+```
+# Go to http://localhost:80/
+### 
+```bash
+balena login
+balena fleet
+balena push <fleet name>
+# example
+balena push my-sensor-fleet
+
+my fleet name is 'starter'
+balena push starter
 ```
 
 
