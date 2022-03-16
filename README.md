@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<h2 align="center">DEPRICATED PROJECT not under development</h2>
+<h2 align="center">ABANDONED PROJECT: not under development</h2>
 
 
 <h2 align="center">Easiest way to sync data between all the device on your balena.io fleet </h2>
