@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "ipfs": "^0.62.1",
+    "orbit-db": "^0.28.3"
   },
   "name": "database",
   "version": "1.0.0",
   "description": "Easiest way to sync data between all the device on your balena.io fleet",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
